@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 En medio del mar, en las más grandes profundidades
 se extendría un reino mágico
 El reino del pueblo del mar
@@ -9,3 +10,6 @@ La pequeña sirena esperó a que llegara su turno ansiosa, imaginando como serí
 Cada vez que a una de sus hermanas le llegaba el turno y cumplía los quince años
 ella escuchaba atentamente las cosas que contaba
 y eso aumentaba sus ganas porque llegara el momento de subir
+=======
+
+>>>>>>> amigos
